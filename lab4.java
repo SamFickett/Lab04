@@ -3,10 +3,10 @@ public class lab4 {
     aggregateBT ABT = new aggregateBT();
     ABT.test();
 
-    searchBT SBT = nw searchBT();
+    searchBT SBT = new searchBT();
     SBT.test();
 
-    BTPrinting BTP = newBTPrinting();
+    BTPrinting BTP = new BTPrinting();
     BTP.test();
   }
 }
