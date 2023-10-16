@@ -1,5 +1,7 @@
+
 public class BinaryTree {
 	
+
 	protected class Node {
 		int data;
 		Node left;
@@ -11,5 +13,5 @@ public class BinaryTree {
 	public void test() {
 		
 	}
-	
+
 }
