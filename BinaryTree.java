@@ -1,6 +1,7 @@
-import org.w3c.dom.Node;
 
-public class BinaryTree<Integer> {
+public class BinaryTree {
+	
+
 	protected class Node {
 		int data;
 		Node left;
@@ -12,4 +13,5 @@ public class BinaryTree<Integer> {
 	public void test() {
 		
 	}
+
 }
